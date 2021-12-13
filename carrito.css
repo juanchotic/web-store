@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+    background: #f1f5f8;
+ 
+}
+
+.nav-main {
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    background-color:white;
+    
+}
+
+.logo {
+    margin-left: 15%;
+}
+
+.logo img{
+    width: 100px;
+    margin-left: 40px;
+    margin-top: 10px;
+   /* background-color: blueviolet;*/
+}
+
+
+
+.menu-items{
+    width: 100%;
+    margin-left: 30%;
+}
+
+.menu-items nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.menu-items nav ul a {
+    color: grey;
+    letter-spacing: 0.1rem;
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s linear; /* al invocar la propiedad hover */
+    text-decoration: none;
+}
+
+.menu-items nav ul a:hover {
+    background: #beb2b2;
+    color: #4d4d4d;
+    padding-left: 1.0rem;
+    border-radius: 20px;
+    
+}
+
+#social{
+    background: rgba(46, 46, 18, 1);
+    padding: 10px;
+    border-radius: 10px 0 0 10px;
+    position: absolute;
+    top: 12%;
+    right: 0;
+}
+
+#card{
+    background: rgba(46, 46, 18, 1);
+    padding: 10px;
+    border-radius: 10px 0 0 10px;
+    position: absolute;
+    top: 5%;
+    right: 0px;
+}
+
+#menu-bk{
+    min-height: 333px;
+    background: url(../images/breakfast-omelette-with-radish-green-arugula-and-sandwich-with-salmon-on-white-plate-frittata-italian-omelet-top-view.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+#copy{
+    color: rgba(113, 185, 112, 0.8);
+}
+
+
+.content-menu img {
+    border-radius: 2%;
+}
+
+.producto .content-menu {
+    background-color: #f39c27;
+    margin-bottom: 10px;
+    border-radius: 2%;
+}
+
+

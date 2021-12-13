@@ -1,0 +1,39 @@
+[
+    {
+      "precio": 24000,
+      "id": 1,
+      "title": "Muebles Familiares",
+      "thumbnailUrl": "resources/634-6345737_comedor-png-4-png-image-muebles-de.png"
+    },
+    {
+      "precio": 26000,
+      "id": 2,
+      "title": "Bicicleta",
+      "thumbnailUrl": "resources/8436578261987.PT01_510x@2x.progressive.jpg"
+    },
+    {
+      "precio": 26200,
+      "id": 3,
+      "title": "Gafas de sol polarizadas",
+      "thumbnailUrl": "resources/gafas-sol-polarizadas.jpg"
+    },
+    {
+      "precio": 24900,
+      "id": 4,
+      "title": "Iphone 12 PRO",
+      "thumbnailUrl": "resources/iphone-12-pro-blue-hero_544cba64-2b90-451e-b6ad-23050a3cf454_1200x1200.png.crdownload"
+    },
+    {
+      "precio": 23900,
+      "id": 5,
+      "title": "Juego de Comedor",
+      "thumbnailUrl": "resources/png-transparent-table-dining-room-chair-furniture-recliner-comedor-game-angle-kitchen.png"
+    },
+    {
+      "precio": 15700,
+      "id": 6,
+      "title": "Gafas Básicas",
+      "thumbnailUrl": "resources/rb4105_601_1.png"
+    }
+
+  ]
